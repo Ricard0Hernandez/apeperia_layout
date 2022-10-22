@@ -43,9 +43,17 @@
 
 @media screen and (min-width: 1024px) {
     .diferenciales {
-        background-color: var(--cinza-claro);
+        background-color: var(--background-ceniza-claro);
     }
     .diferenciales__lista {
         justify-content: space-around;
     }
+}
+
+@media screen and (min-width: 1024px){
+    .diferenciales{
+        background-color: var(--background-ceniza-claro);
+        justify-content: space-around;
+    }
+    
 }
